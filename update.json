@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "签名内容...",
-      "url": "https://foruda.gitee.com/attach_file/1773884948988434398/zliangclaw_1.0.0_x64-setup.exe?token=e6f23238cb8a098724da5526d6de16dc&ts=1773884956&attname=ZliangClaw_1.0.0_x64-setup.exe"
+      "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1185931602/9926ec02-0bc2-4872-9188-1abc79493501?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-03-19T05%3A39%3A50Z&rscd=attachment%3B+filename%3DZliangClaw_1.0.1_x64-setup.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-03-19T04%3A39%3A09Z&ske=2026-03-19T05%3A39%3A50Z&sks=b&skv=2018-11-09&sig=nKs75e1UHtPCJmKK9tVpe%2FgGvj0vxgGKQsKvW%2FljjZA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3Mzg5NzAxNSwibmJmIjoxNzczODk2NzE1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WqPw2tn7Yt-iS173SUVCgl4WVbyx6Pzv65DbLM2aPS0&response-content-disposition=attachment%3B%20filename%3DZliangClaw_1.0.1_x64-setup.exe&response-content-type=application%2Foctet-stream"
     },
     "darwin-x86_64": {
       "signature": "签名内容...",
