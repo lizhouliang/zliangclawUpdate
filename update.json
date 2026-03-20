@@ -4,11 +4,11 @@
   "pub_date": "2026-03-19T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "签名内容...",
+      "signature": "dGVzdC1zaWduYXR1cmUtZXhhbXBsZS1wbGVhc2UtdXNlLXlvdXItb3duLWJhc2U2NC1nZW5lcmF0ZWQtc2lnbmF0dXJl",
       "url": "https://github.com/lizhouliang/zliangclawUpdate/releases/latest/download/ZliangClaw_1.0.1_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "签名内容...",
+      "signature": "dGVzdC1zaWduYXR1cmUtZXhhbXBsZS1wbGVhc2UtdXNlLXlvdXItb3duLWJhc2U2NC1nZW5lcmF0ZWQtc2lnbmF0dXJl",
       "url": "https://gitee.com/your-name/your-repo/releases/download/v0.1.0/ZliangClaw.app.tar.gz"
     }
   }
